@@ -66,3 +66,16 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### 'Librarys'
+axios library to send request to the server.
+
+### Graphic charts
+For the Graphic charts,i used a full ready project : https://canvasjs.com/react-charts/, the library of this project are in the assets Folder.
+
+### Structure of the project
+Each Component is in the Component folder
+The home page is in the pages folder
+The layouts folder contains the MainLyout.js to render the Structure of the main page.
+
+### The react project run on the port `3000`
